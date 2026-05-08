@@ -5,6 +5,8 @@ r1.ProfitLoss();
 SalesResult r2 = new SalesResult(110000, 780000);
 
 r2.ProfitLoss();
+
+
 class SalesResult
 {
     private ulong _sales;
